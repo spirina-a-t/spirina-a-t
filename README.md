@@ -1,8 +1,6 @@
 ## Hey there! I'm Tanya 🤟
 
-I'm a Junior tester and I'm fond of Java.
-
-Check out my [manual testing portfolio](https://sites.google.com/view/qa-spirina/). 
+I'm a QA engineer and I'm fond of Java. 
 
 ## Get in touch
 
